@@ -1,0 +1,20 @@
+{
+  "short_name": "Sentinel AI",
+  "name": "Sentinel AI - CCTV Monitoring",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/192/cctv.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/cctv.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#030712",
+  "background_color": "#030712"
+}
